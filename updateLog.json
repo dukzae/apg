@@ -1,0 +1,38 @@
+[
+    {
+        "time":[2025,2,3,17,46],
+        "version":"v1.31",
+        "text":"I'M BACK FROM MY BREAK! this update introduces POWER MASTERIES, a new POWER and SKINS, and TONS OF BALANCE CHANGES!\n\nadditions:\n- 🏆 added POWER MASTERIES, and removed the XP requirement to upgrade powers!\n    - XP is now used to unlock masteries!\n    - many diamond III powers have their own titles!\n- 🏷️ customize your CHAT COLOR in the profile editor!\n\n- 🔃 added the INVERTED charm!\n\n- ⚡ new power:\n    - 🌷 SUPERBLOOM\n\n- 👚 new skins:\n    - water balloon: ✨ pocket dimension\n    - superbloom: 🎂 cake surprise\n\nimprovements:\n- ⚡️ passive powers will now receive XP for every passively-generated power juice earned in a match\n- 📱 various UI improvements\n\nbalance changes:\n- necromancer's staff:\n    - added hybrid passive: 'tomb raiser': when you kill an enemy, a zombie is summoned beneath them! 5 second cooldown\n- chair:\n    - added hybrid passive: 'sedentary': every (25/24/22/20) seconds while sitting, you gain +5 max HP\n- troll lootbox:\n    - added hybrid passive: 'unboxing': when you kill an enemy, you have a (20/30/40/50)% chance to receive a random gear\n- frostfire:\n    - added hybrid active: 'create an icy explosion that freezes enemies and leaves behind a zone of fire with a (10/12/14/16) stud radius'\n    - frostfire's old passive is now its hybrid passive: 'thermal protection'\n- jack-o-launcher: explosions will now leave behind zones of fire\n- puffer pal: knockback is now consistent\n- shark bait: now instantly kills, but has a longer wait period with an indicator\n- horn of the forlorn blizzard: increased range from 14 > 16\n\nnow that i'm back from my break, i would love to start adding more events and maps to the game! stay tuned, and as always-- happy plating!"
+    },
+    
+    {
+        "time":[2025,1,6,20,30],
+        "text":"bug fixes! fixed crate animations, inventory glitches, boomerang bugs, and an issue with the egg powers."
+    },
+    
+    {
+        "time":[2024,12,30,1,20],
+        "text":"bug fixes! quick join will no longer try to send you to full servers, and quests have been fixed."
+    },
+    
+    {
+        "image":"rbxassetid://76796338618995",
+        "version":"v1.30",
+        "time":[2024,12,29,8,44],
+        "text":"welcome to v1.30! this update brings back SUPA-SNOWMAN (with new rewards!), an ADVENT CALENDAR, TONS OF SKINS, and more!\n\nadditions:\n- ⛄🔥 the SUPA-SNOWMAN boss is back for a limited time! but it has returned back for REVENGE... \n    - earn 5 different boss rewards!\n\n- 🎁 advent calendar! join at least 14 times in the next 28 days to get all of the rewards!\n\n- 💰 gem prices discount!\n\n- 📜 new charm quests!\n- 🎮 added a QUICK PLAY button which lets you quickly join another round!\n\n- ⚡ new power:\n    - force barrier\n\n- 👚 new skins:\n    - hermes' boots: 🌨️ trailfreezer\n    - shellshock: 🧊 frostshock\n    - sugary coffee: ⭐ super star\n    - sunflower pal: 😺 cat pal\n   \nimprovements:\n- ⚡ significantly boosted loading times\n\ngears:\n- 🧊 snow bomb\n\nbalance changes:\n- flashbang: increased radius from 12 > 16\n- parrot retriever: increased power steal chance from (0/15/30/50) > (25/50/75/100)\n- blizzard horn: increased range from 12 > 14\n- water balloon: now triggers instantly\n\npower juice requirements:\n- summon nuke: 5 > 4\n- tripmine: 5 > 4\n- lootbox troll: 5 > 4\n",
+     
+        "backdrop":"130811421927112",
+        "alias":"SUPA-SNOWMAN'S RETURN"
+    },
+    
+    {
+        "text":"HE WILL RETURN. COMING VERY SOON.",
+        "time":[2024,12,28,7,10],
+        "image":"rbxassetid://101978128032293"
+    },
+    
+    {
+        "time":[2024,12,12,18,56],
+        "text":"fixed a bug where necromancer's staff could not be purchased for gems"
+    }
+]
