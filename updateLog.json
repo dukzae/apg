@@ -1,7 +1,10 @@
-[
+{   
     {
         "time":[2025,2,3,17,46],
         "version":"v1.31",
+        "alias":"THE MASTERY UPDATE",
+        "backdrop":"rbxassetid://76478891494706",
+        "image":"rbxassetid://112596221811950",
         "text":"I'M BACK FROM MY BREAK! this update introduces POWER MASTERIES, a new POWER and SKINS, and TONS OF BALANCE CHANGES!\n\nadditions:\n- 🏆 added POWER MASTERIES, and removed the XP requirement to upgrade powers!\n    - XP is now used to unlock masteries!\n    - many diamond III powers have their own titles!\n- 🏷️ customize your CHAT COLOR in the profile editor!\n\n- 🔃 added the INVERTED charm!\n\n- ⚡ new power:\n    - 🌷 SUPERBLOOM\n\n- 👚 new skins:\n    - water balloon: ✨ pocket dimension\n    - superbloom: 🎂 cake surprise\n\nimprovements:\n- ⚡️ passive powers will now receive XP for every passively-generated power juice earned in a match\n- 📱 various UI improvements\n\nbalance changes:\n- necromancer's staff:\n    - added hybrid passive: 'tomb raiser': when you kill an enemy, a zombie is summoned beneath them! 5 second cooldown\n- chair:\n    - added hybrid passive: 'sedentary': every (25/24/22/20) seconds while sitting, you gain +5 max HP\n- troll lootbox:\n    - added hybrid passive: 'unboxing': when you kill an enemy, you have a (20/30/40/50)% chance to receive a random gear\n- frostfire:\n    - added hybrid active: 'create an icy explosion that freezes enemies and leaves behind a zone of fire with a (10/12/14/16) stud radius'\n    - frostfire's old passive is now its hybrid passive: 'thermal protection'\n- jack-o-launcher: explosions will now leave behind zones of fire\n- puffer pal: knockback is now consistent\n- shark bait: now instantly kills, but has a longer wait period with an indicator\n- horn of the forlorn blizzard: increased range from 14 > 16\n\nnow that i'm back from my break, i would love to start adding more events and maps to the game! stay tuned, and as always-- happy plating!"
     },
     
