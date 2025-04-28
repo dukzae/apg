@@ -1,4 +1,12 @@
 [
+     {
+        "time":[2025,4,27,18,30],
+        "version":"v1.33",
+        "backdrop":"rbxassetid://81944353629967",
+        "image":"rbxassetid://98337984562982",
+        "text":"🔥 WELCOME TO THE APG DISASTER UPDATE!\n\nadditions:\n- 🔥 introducing the long-awaited DISASTER MODE!\n    - 😎 survive huge DISASTERS instead of EVENTS!\n    - 🛒 mid-round intermissions to buy from the DISASTER DEPOT and build!\n    - 🌠 intensity ramps up based on difficulty and time!\n\n- 🔨 introducing GEAR SKINS!\n    - 👁️ overseer tripmine\n    - converted all gear power skins to gear skins\n\n- ✨ 6 new super auras\n- 👚 6 new skins:\n    - 🌿 peashooter\n    - 💣 barrel of KABOOM!\n    - 🌼 frostflower\n    - 🪩 boogie bomb\n    - 🐡 abomination bait\n    - 🕷️ spooky egg\n    + many more on their way!\n\nmaps:\n- 🌊 MARINE map (disaster & mega disaster)\n- 🏢 DISASTER HOTEL map (disaster & mega disaster)\n- 🧇 WAFFLE map (classic & mega classic)\n\nimprovements:\n- 📱 various UI improvements\n\n- solar system planets longer orbit (planets will still spawn at random points)\n\n- lucky gear block can now shuffle itself\n- fixed hookshot hooking ghosts\n- fixed topbar glitches\n\ndisasters:\n- 🌠 meteor shower\n- ⚡ thunder storm\n- 🌊 flash flood\n- 👁️ all-seeing eye\n- 🏴‍☠️ pirate invasion\n- 👽 alien invasion\n- 🧟‍ zombie uprising \n- ⌛ sandstorm\n+ many more on their way!\n\nevents:\n- 🤑 clam\n- 🪼 jellyfish party\n- 🌱 acorn rain\n\nbalance changes:\n- egg of radical rocketeering: \n    - decreased power juice cost from 3 > 2\n    - decreased damage from (15/20/25/30) > (8/10/12/16)\n- frostfire: added a charge up time of 3 seconds\n- superbloom: you will now retain a percentage of the MHP after the duration"
+    },
+    
     {
         "time":[2025,4,20,3,9],
         "version":"v1.32",
