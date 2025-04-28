@@ -1,5 +1,10 @@
 [
      {
+        "time":[2025,4,27,19,40],
+        "text":"most of the disaster bugs have been fixed! sorry for the bumpy release, and thank you for your patience!"
+    },
+     
+     {
         "time":[2025,4,27,18,30],
         "version":"v1.33",
         "alias":"THE DISASTER UPDATE",
