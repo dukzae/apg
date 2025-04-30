@@ -2,7 +2,7 @@
      {
           "time":[2025,4,30,0,2],
           "version":"v1.33.1",
-          "isPatch": true;
+          "isPatch": true,
           "text":"improvements:\n- fixed a bug where loadouts, emote wheel, charms, and some gear skins wouldn't save\n    - if you lost a gear skin, message @dukzae to get receive it back!\n- fixed a bug where the only disaster events that appeared were lava eruption and sea mines\n- fixed a bug where bomb didn't work\n\n- the auras that were listed in the last update notes will be added in a few days! - somehow they weren't implemented.\n\nkeep on the lookout for easter pt. 2!!"
      },
      
