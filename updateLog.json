@@ -1,5 +1,12 @@
 [
      {
+          "time":[2025,5,11,21,3],
+          "version":"v1.33.2",
+          "isPatch": true,
+          "text":"🐰 it's hardly easter anymore, but here are a few more skins in case you want to spend your leftover eggs! i'm still studying for my final exams, but hopefully afterwards i can rebalance the disaster update a bit more.\n\nadditions:\n- +7 days for the easter event (in case you were still missing some eggs!)\n\n- ✨ (FINALLY) added the 5 super auras!\n    - thundering aura revamped\n\n- 👚 2 egg skins!\n    - winged egg of flames\n    - coiled egg of gravity\n\nimprovements:\n- 🌠 disaster mode can only show up in the voting pool every 45 minutes\n    - i realize that with as little disasters it has right now, it's not as great as it could be. i'm still looking into new features and disasters to add to the mode, though - join the community server in case you're interested in requesting new features, disasters, or maps!\n- added sudden death to disaster mode\n\n- modifiers are half as common in disaster mode\n- fixed a bug where XP couldn't be earned in disaster mode\n\n- you now earn more xp per event\n    \n- fixed a bug where buildings would randomly fall off the walls of cavern\n- fixed a bug where daily rewards and streak wouldn't update\n    \nbalance changes:\n- hermes boots: instead of increasing with the amount of power juice you have, it will fully activate when you have under 50% HP"
+     },
+     
+     {
           "time":[2025,4,30,0,2],
           "version":"v1.33.1",
           "isPatch": true,
