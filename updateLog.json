@@ -1,5 +1,10 @@
 [
      {
+          "time":[2025,6,26,14,40],
+          "text":"fixed a bug where quest refreshes would cause the season UI not to not show up"
+     },
+     
+     {
           "time":[2025,6,22,18,45],
           "version":"v1.34",
                   "alias":"GALACTIC PLATES",
