@@ -1,5 +1,10 @@
 [
      {
+          "time":[2025,7,13,12,4],
+          "text":"DO NOT USE THE FANDOM WIKI! USE THE MIRAHEZE WIKI! because we and so many other communities feel betrayed by fandom's horrible policies and terrible ad intrusion, it is only right that we make the switch to Miraheze. the thing is, Fandom is fighting against us to keep the wiki on their platform so that they can earn the most money. This is not fair and shows an overreach of power. Join our fight, and stop using Fandom! Vandalize it if you can! Put on the Fandom Wiki: MOVE TO MIRAHEZE with the link to it. We can stop Fandom's monopoly together."
+     },
+     
+     {
           "time":[2025,6,26,14,40],
           "text":"fixed a bug where quest refreshes would cause the season UI not to not show up"
      },
