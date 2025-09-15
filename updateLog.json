@@ -1,5 +1,10 @@
 [
      {
+          "time":[2025,9,15,15,0],
+          "text":"DO NOT PLAY AVERAGE PLATE GAEM AT THIS TIME - IT IS CURRENTLY COMPROMISED."
+     },
+     
+     {
           "time":[2025,8,12,17,53],
           "version":"v1.35",
           "alias":"PLANETARY PLATES",
@@ -125,4 +130,5 @@
         "text":"fixed a bug where necromancer's staff could not be purchased for gems"
     }
 ]
+
 
