@@ -1,5 +1,8 @@
 [
-     
+     {
+          "time":[2025,10,19,19,5],
+          "text":"the secondary server for apg has opened! while your data has not been carried over, you can enjoy playing apg while we try to get the original game back up with all of your data. sorry for the inconvenience, and happy plating!"
+     },
      {
           "time":[2025,8,12,17,53],
           "version":"v1.35",
@@ -126,6 +129,7 @@
         "text":"fixed a bug where necromancer's staff could not be purchased for gems"
     }
 ]
+
 
 
 
