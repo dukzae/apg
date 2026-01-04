@@ -1,5 +1,10 @@
 [
      {
+          "time":[2026,1,4,15,27],
+          "text":"a bug that caused every power to be archived and a bug that deleted all your candy canes has been fixed!"
+     },
+
+     {
           "time":[2025,10,19,19,5],
           "text":"the secondary server for apg has opened! while your data has not been carried over, you can enjoy playing apg while we try to get the original game back up with all of your data. sorry for the inconvenience, and happy plating!"
      },
@@ -129,6 +134,7 @@
         "text":"fixed a bug where necromancer's staff could not be purchased for gems"
     }
 ]
+
 
 
 
