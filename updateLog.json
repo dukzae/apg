@@ -1,5 +1,10 @@
 [
      {
+          "time":[2026,2,8,10,45],
+          "text":"small servers have been re-opened! click \"mega server\" to join a mega server."
+     },
+     
+     {
           "time":[2026,1,4,15,27],
           "text":"a bug that caused every power to be archived and a bug that deleted all your candy canes has been fixed!"
      },
@@ -134,6 +139,7 @@
         "text":"fixed a bug where necromancer's staff could not be purchased for gems"
     }
 ]
+
 
 
 
