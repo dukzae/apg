@@ -1,5 +1,10 @@
 [
      {
+          "time":[2026,7,30,13,23],
+          "text":"various changes to sudden death have been reverted/changed, and a bug where certain objects wouldn't break has been fixed."
+     },
+     
+     {
           "time":[2026,5,25,14,31],
           "text":"🎃 SPRING-O-WEEN: the \"trick-or-treat\" event is available now for a limited time! keep an eye out for big updates coming soon. happy plating!"
      },
