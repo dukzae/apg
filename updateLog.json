@@ -1,5 +1,10 @@
 [
      {
+          "time":[2026,8,3,14,18],
+          "text":"fixed a bug where storm would not appear, among other standoff balance changes during sudden death"
+     },
+     
+     {
           "time":[2026,7,30,13,23],
           "text":"various changes to sudden death have been reverted/changed, and a bug where certain objects wouldn't break has been fixed."
      },
